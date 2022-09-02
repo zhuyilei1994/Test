@@ -1,0 +1,7 @@
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\Extensions\Application\\ShellExtensionsVSIX.dll
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\Extensions\Application\\ShellExtensionsVSIX.pdb
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\Extensions\Application\\VSShellStub1.AboutBoxPackage.dll
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\Extensions\Application\\ShellExtensionsVSIX.pkgdef
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\Extensions\Application\\extension.vsixmanifest
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\Extensions\Application\\VSShellStub1.AboutBoxPackage.pkgdef
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\Extensions\Application\\VSShellStub1.AboutBoxPackage.pdb

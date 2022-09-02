@@ -1,0 +1,10 @@
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\VSShellStub1.exe.config
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\VSShellStub1.winprf
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\VSShellStub1.pkgundef
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\VSShellStub1.pkgdef
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\ApplicationIcon.ico
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\Splash.bmp
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\DebuggerProxy.dll
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\DebuggerProxy.dll.manifest
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\Profiles\General.vssettings
+C:\Users\zhuyi\Desktop\VSShellStub1\Debug\\Extensions\Application\VSShellStub1.Application.pkgdef
